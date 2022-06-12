@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/vrptw/algorithm/ColumnGeneration.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/vrptw/algorithm/PulseAlgorithm.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/vrptw/algorithm/RestrictedMasterProblem.java" charset="GB18030" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
